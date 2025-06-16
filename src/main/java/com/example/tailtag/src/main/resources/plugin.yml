@@ -1,0 +1,17 @@
+name: TailTag
+version: 1.0.0
+description: 마인크래프트 꼬리잡기 게임 플러그인
+author: YourName
+main: com.example.tailtag.TailTagPlugin
+api-version: 1.21
+
+commands:
+  tailtag:
+    description: 꼬리잡기 게임 명령어
+    usage: /tailtag <start|reset>
+    aliases: [tt]
+
+permissions:
+  tailtag.admin:
+    description: 꼬리잡기 게임 관리 권한
+    default: op
