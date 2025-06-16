@@ -9,7 +9,7 @@
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
-    <name>TailTag</name>
+    <n>TailTag</n>
     <description>마인크래프트 꼬리잡기 게임 플러그인</description>
 
     <properties>
